@@ -1,4 +1,4 @@
-##Kyruus Node SDK
+## Kyruus Node SDK
 
 This is a NodeJS HTTPS-based API wrapper for the ProviderMatch search API
 provided by [Kyruus](https://www.kyruus.com).
